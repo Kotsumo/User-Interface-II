@@ -1,1 +1,15 @@
 /* Add CSS styling here */
+.flexbox{
+    display:flex;
+    
+}
+
+.flexbox .flexItem{
+    width: 20%;
+    text-align: center;
+    justify-content: space-evenly;
+}
+
+.mainphoto{
+    width: 40%;
+}
